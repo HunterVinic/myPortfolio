@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://HunterVinic.github.io/myPortfolio/static/css/main.95f4ccea.css",
-    "main.js": "https://HunterVinic.github.io/myPortfolio/static/js/main.788f7987.js",
+    "main.js": "https://HunterVinic.github.io/myPortfolio/static/js/main.8bbe3063.js",
     "static/js/453.41811d64.chunk.js": "https://HunterVinic.github.io/myPortfolio/static/js/453.41811d64.chunk.js",
     "static/media/aboutme_bg.png": "https://HunterVinic.github.io/myPortfolio/static/media/aboutme_bg.d4dc9c6f32f412919742.png",
     "static/media/avatar.png": "https://HunterVinic.github.io/myPortfolio/static/media/avatar.66b5ec1c5bef1fcd1667.png",
@@ -13,11 +13,11 @@
     "static/media/qr.jpg": "https://HunterVinic.github.io/myPortfolio/static/media/qr.ff0ed1dd7d48481f9182.jpg",
     "index.html": "https://HunterVinic.github.io/myPortfolio/index.html",
     "main.95f4ccea.css.map": "https://HunterVinic.github.io/myPortfolio/static/css/main.95f4ccea.css.map",
-    "main.788f7987.js.map": "https://HunterVinic.github.io/myPortfolio/static/js/main.788f7987.js.map",
+    "main.8bbe3063.js.map": "https://HunterVinic.github.io/myPortfolio/static/js/main.8bbe3063.js.map",
     "453.41811d64.chunk.js.map": "https://HunterVinic.github.io/myPortfolio/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95f4ccea.css",
-    "static/js/main.788f7987.js"
+    "static/js/main.8bbe3063.js"
   ]
 }
