@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "https://HunterVinic.github.io/myPortfolio/static/css/main.95f4ccea.css",
-    "main.js": "https://HunterVinic.github.io/myPortfolio/static/js/main.8bbe3063.js",
+    "main.css": "https://HunterVinic.github.io/myPortfolio/static/css/main.56703e76.css",
+    "main.js": "https://HunterVinic.github.io/myPortfolio/static/js/main.0646ce09.js",
     "static/js/453.41811d64.chunk.js": "https://HunterVinic.github.io/myPortfolio/static/js/453.41811d64.chunk.js",
     "static/media/aboutme_bg.png": "https://HunterVinic.github.io/myPortfolio/static/media/aboutme_bg.d4dc9c6f32f412919742.png",
     "static/media/avatar.png": "https://HunterVinic.github.io/myPortfolio/static/media/avatar.66b5ec1c5bef1fcd1667.png",
+    "static/media/resume.pdf": "https://HunterVinic.github.io/myPortfolio/static/media/resume.245e33bf6c3b59b28691.pdf",
     "static/media/bg-light.png": "https://HunterVinic.github.io/myPortfolio/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "https://HunterVinic.github.io/myPortfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/id-card.png": "https://HunterVinic.github.io/myPortfolio/static/media/id-card.55389bd0fe9944753177.png",
     "static/media/speech.jpg": "https://HunterVinic.github.io/myPortfolio/static/media/speech.0982caa295bd5f0f5710.jpg",
     "static/media/smarthouse.jpg": "https://HunterVinic.github.io/myPortfolio/static/media/smarthouse.6baaf00aff0cde440c15.jpg",
     "static/media/smarthouse_nodered.jpg": "https://HunterVinic.github.io/myPortfolio/static/media/smarthouse_nodered.1c9175d903c786837d77.jpg",
     "static/media/qr.jpg": "https://HunterVinic.github.io/myPortfolio/static/media/qr.ff0ed1dd7d48481f9182.jpg",
     "index.html": "https://HunterVinic.github.io/myPortfolio/index.html",
-    "main.95f4ccea.css.map": "https://HunterVinic.github.io/myPortfolio/static/css/main.95f4ccea.css.map",
-    "main.8bbe3063.js.map": "https://HunterVinic.github.io/myPortfolio/static/js/main.8bbe3063.js.map",
+    "main.56703e76.css.map": "https://HunterVinic.github.io/myPortfolio/static/css/main.56703e76.css.map",
+    "main.0646ce09.js.map": "https://HunterVinic.github.io/myPortfolio/static/js/main.0646ce09.js.map",
     "453.41811d64.chunk.js.map": "https://HunterVinic.github.io/myPortfolio/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95f4ccea.css",
-    "static/js/main.8bbe3063.js"
+    "static/css/main.56703e76.css",
+    "static/js/main.0646ce09.js"
   ]
 }
