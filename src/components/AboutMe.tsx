@@ -51,13 +51,13 @@ const AboutMe = () => {
           
           {/* Middle Column - Image */}
           <div className="about-section image-section">
-            <div className="profile-image-wrapper">
+            {/* <div className="profile-image-wrapper">
               <img 
                 src={require("../assets/images/pp/aboutme_bg.png")} 
                 alt="Profile" 
                 className="profile-image"
               />
-            </div>
+            </div> */}
           </div>
           
           {/* Right Column - Education */}

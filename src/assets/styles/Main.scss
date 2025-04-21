@@ -10,11 +10,158 @@
     width: 100%;
     padding: 0px 15%;
     min-height: 700px;
-    background-image: url("../images/bg-dark.png");
+    background-image: url("../background/transparent_bg.PNG");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
+}
+
+.light-mode .about-section {
+  display: flex;
+  gap: 0px;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  padding: 0px 15%;
+  min-height: 700px;
+  background-image: url("../background/transparent_bg2.PNG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center bottom;
+  
+
+}
+
+.light-mode .about-section .content p i h6 {
+  position: relative;
+  left: 100%;
+  transform: translateX(-20%);
+  text-align: right;
+  width: 50%;
+  font-style: italic;
+  margin-top: 0px;
+  color: #FF5733;
+}
+
+.light-mode .about-section .content {
+  text-align: left;
+  z-index: 1;
+  padding: 60px 25px 25px 10px;
+  max-width: 800px;
+  margin-right: auto;
+}
+
+.light-mode .about-section .content .social_icons {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-block-start: 0px;
+  color: white;
+}
+
+.light-mode .about-section .content .social_icons svg {
+  font-size: 1.8em;
+}
+
+.light-mode .about-section .content .mobile_social_icons {
+  display: none;
+}
+
+.light-mode .about-section .content p {
+  font-size: 1.5em;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  background-color: transparent;
+  width: 100%;
+}
+
+.light-mode .about-section .content h1 {
+  font-size: 5em;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  color: transparent; /* Makes text invisible */
+  
+  /* Border styling */
+  -webkit-text-stroke: 2px #FF5733; /* For WebKit browsers */
+  paint-order: stroke; /* Ensures stroke appears behind fill (if text becomes visible) */
+  
+  margin-top: 120px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+/* Mobile-First Bottom Alignment */
+@media (max-width: 768px) {
+  .light-mode .about-section {
+    justify-content: flex-start; /* Moves all content to bottom */
+    justify-content: center; /* Centers horizontally */
+    padding-bottom: 10px; /* Adds breathing room at bottom */
+    min-height: 100vh;
+    padding-top: 50vh; 
+    padding-left: 5%; 
+  }
+
+  .light-mode .about-section .content {
+    max-width: 90%;
+    padding: 0 15px;
+    text-align: left; /* Changed from center to left */
+    margin: 0; /* Changed from auto to 0 */
+    margin-right: auto; /* Pushes container left */  
+  }
+
+  .light-mode .about-section .content h1 {
+    font-size: 1.5em;
+    margin-top: 0; /* Remove large desktop margin */
+    background-position: center bottom;
+    letter-spacing: 0.5px;
+    text-align: left;
+  }
+
+  .light-mode .about-section .content p {
+    font-size: 1.2em;
+    background-position: center bottom;
+    color: white;
+  }
+
+  .light-mode .about-section .content p i h6 {
+    position: static; /* Remove absolute positioning */
+    width: 100%;
+    margin: 10px auto 0;
+    text-align: center;
+    transform: none;
+    left: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .light-mode .about-section {
+    padding-top: 80vh; /* Increased from 70vh (now 20% content area) */
+    padding-bottom: 20px;
+    min-height: 100vh;
+    justify-content: flex-end;
+  }
+
+  .light-mode .about-section .content h1 {
+    font-size: 1.2em; /* Smaller heading */
+    margin-bottom: 8px;
+  }
+
+  .light-mode .about-section .content p {
+    font-size: 0.8em; /* Smaller body text */
+  }
+
+  .light-mode .about-section .content p i h6 {
+    font-size: 0.7em; /* Smallest quote text */
+    margin-top: 8px;
+    width: 95%; /* Wider text block */
+  }
+
+  .light-mode .about-section .content .social_icons svg {
+    font-size: 1.2em; /* Smaller icons */
+  }
 }
 
 .about-section .content {
@@ -25,6 +172,8 @@
         display: flex;
         flex-direction: row;
         gap: 10px;
+
+        margin-block-start: 50px;
         color: white;
 
         svg {
@@ -44,7 +193,7 @@
 
     h1 {
         font-size: 5em;
-        margin-block-start: 0px;
+        margin-block-start: 270px;
         margin-block-end: 0px;
     }
 }

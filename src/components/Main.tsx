@@ -52,13 +52,13 @@ function Main({ mode }: MainProps) {
   return (
     <div className={`container ${mode}-mode`}>
       <div className={`about-section ${scrolled ? 'scrolled' : ''}`}>
-        <div className="image-wrapper">
+        {/* <div className="image-wrapper">
           <img
             src={require("../assets/images/pp/avatar.png")}
             alt="Avatar"
             className="avatar-img"
           />
-        </div>
+        </div> */}
         <div className="content">
           <div className="social_icons">
             <a href="https://github.com/HunterVinic" target="_blank" rel="noreferrer">
@@ -72,8 +72,7 @@ function Main({ mode }: MainProps) {
           <p>Software Developer</p>
           <p><i><h6>
           "A developer is like a wizard—turning coffee into code, ideas into innovations, and bugs into lessons. Keep coding, keep creating, and remember: every error is just a stepping stone to mastery."
-
-            </h6></i></p>
+          </h6></i></p>
 
           {/* Resume Button */}
           <div className="resume-buttons">
