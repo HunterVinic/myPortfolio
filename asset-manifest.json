@@ -1,28 +1,26 @@
 {
   "files": {
-    "main.css": "https://HunterVinic.github.io/myPortfolio/static/css/main.2d9259c9.css",
-    "main.js": "https://HunterVinic.github.io/myPortfolio/static/js/main.ba47a828.js",
+    "main.css": "https://HunterVinic.github.io/myPortfolio/static/css/main.971c0487.css",
+    "main.js": "https://HunterVinic.github.io/myPortfolio/static/js/main.bf584ffe.js",
     "static/js/453.41811d64.chunk.js": "https://HunterVinic.github.io/myPortfolio/static/js/453.41811d64.chunk.js",
-    "static/media/aboutme_bg.png": "https://HunterVinic.github.io/myPortfolio/static/media/aboutme_bg.d4dc9c6f32f412919742.png",
+    "static/media/transparent_bg2.PNG": "https://HunterVinic.github.io/myPortfolio/static/media/transparent_bg2.0e368706ada79623a449.PNG",
+    "static/media/transparent_bg.PNG": "https://HunterVinic.github.io/myPortfolio/static/media/transparent_bg.2ce2bf85fabe8de0cce7.PNG",
     "static/media/ux.png": "https://HunterVinic.github.io/myPortfolio/static/media/ux.55fb9926e79dab885265.png",
     "static/media/software.png": "https://HunterVinic.github.io/myPortfolio/static/media/software.1bd549d54c33b8b8e51b.png",
     "static/media/blockchain.png": "https://HunterVinic.github.io/myPortfolio/static/media/blockchain.523fe8051d44263d285b.png",
-    "static/media/avatar.png": "https://HunterVinic.github.io/myPortfolio/static/media/avatar.66b5ec1c5bef1fcd1667.png",
     "static/media/resume.pdf": "https://HunterVinic.github.io/myPortfolio/static/media/resume.245e33bf6c3b59b28691.pdf",
-    "static/media/bg-light.png": "https://HunterVinic.github.io/myPortfolio/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "https://HunterVinic.github.io/myPortfolio/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/id-card.png": "https://HunterVinic.github.io/myPortfolio/static/media/id-card.55389bd0fe9944753177.png",
     "static/media/speech.jpg": "https://HunterVinic.github.io/myPortfolio/static/media/speech.0982caa295bd5f0f5710.jpg",
     "static/media/smarthouse.jpg": "https://HunterVinic.github.io/myPortfolio/static/media/smarthouse.6baaf00aff0cde440c15.jpg",
     "static/media/smarthouse_nodered.jpg": "https://HunterVinic.github.io/myPortfolio/static/media/smarthouse_nodered.1c9175d903c786837d77.jpg",
     "static/media/qr.jpg": "https://HunterVinic.github.io/myPortfolio/static/media/qr.ff0ed1dd7d48481f9182.jpg",
     "index.html": "https://HunterVinic.github.io/myPortfolio/index.html",
-    "main.2d9259c9.css.map": "https://HunterVinic.github.io/myPortfolio/static/css/main.2d9259c9.css.map",
-    "main.ba47a828.js.map": "https://HunterVinic.github.io/myPortfolio/static/js/main.ba47a828.js.map",
+    "main.971c0487.css.map": "https://HunterVinic.github.io/myPortfolio/static/css/main.971c0487.css.map",
+    "main.bf584ffe.js.map": "https://HunterVinic.github.io/myPortfolio/static/js/main.bf584ffe.js.map",
     "453.41811d64.chunk.js.map": "https://HunterVinic.github.io/myPortfolio/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d9259c9.css",
-    "static/js/main.ba47a828.js"
+    "static/css/main.971c0487.css",
+    "static/js/main.bf584ffe.js"
   ]
 }
